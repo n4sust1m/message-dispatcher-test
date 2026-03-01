@@ -1,0 +1,21 @@
+{
+  "name": "message-dispatcher-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n4sust1m/message-dispatcher-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/n4sust1m/message-dispatcher-test/issues"
+  },
+  "homepage": "https://github.com/n4sust1m/message-dispatcher-test#readme"
+}
